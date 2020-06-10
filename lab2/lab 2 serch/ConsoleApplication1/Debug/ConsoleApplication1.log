@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Trim\Desktop\zakazu\Alexander Viktorovich 29.05.2020\lab 2 serch\ConsoleApplication1\ConsoleApplication1.cpp(29,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Trim\Desktop\zakazu\Alexander Viktorovich 29.05.2020\lab 2 serch\ConsoleApplication1\ConsoleApplication1.cpp(250,30): warning C4018: <: несоответствие типов со знаком и без знака
+  ConsoleApplication1.vcxproj -> C:\Users\Trim\Desktop\zakazu\Alexander Viktorovich 29.05.2020\lab 2 serch\ConsoleApplication1\Debug\ConsoleApplication1.exe
