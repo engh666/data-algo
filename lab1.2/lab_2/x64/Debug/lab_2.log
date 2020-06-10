@@ -1,0 +1,12 @@
+﻿  lab_2.cpp
+C:\Users\Trim\Desktop\zakazu\Alexander Viktorovich 29.05.2020\Lab 1 sort\lab_2\LS.cpp(64,1): warning C4267: аргумент: преобразование из "size_t" в "const _Ty"; возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Trim\Desktop\zakazu\Alexander Viktorovich 29.05.2020\Lab 1 sort\lab_2\lab_2.cpp(23): message : выполняется компиляция ссылки на экземпляр шаблон функции "void GEN_SORT::gen_number<int>(std::vector<int,std::allocator<int>> &,int)"
+  LS.cpp
+  Создание кода...
+LS.obj : error LNK2005: "public: void __cdecl GEN_SORT::create_test_file(void)" (?create_test_file@GEN_SORT@@QEAAXXZ) уже определен в lab_2.obj
+LS.obj : error LNK2005: "public: void __cdecl GEN_SORT::timer_m(int)" (?timer_m@GEN_SORT@@QEAAXH@Z) уже определен в lab_2.obj
+C:\Users\Trim\Desktop\zakazu\Alexander Viktorovich 29.05.2020\Lab 1 sort\lab_2\x64\Debug\lab_2.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более

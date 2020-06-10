@@ -1,0 +1,6 @@
+﻿  lab_2.cpp
+C:\Users\Trim\Desktop\zakazu\Alexander Viktorovich 29.05.2020\Lab 1 sort\lab_2\lab_2.cpp(60,5): error C2672: "std::sort": не найдена соответствующая перегруженная функция
+C:\Users\Trim\Desktop\zakazu\Alexander Viktorovich 29.05.2020\Lab 1 sort\lab_2\lab_2.cpp(60,14): error C2780: void std::sort(const _RanIt,const _RanIt): требует аргументов: 2, имеется: 1
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\algorithm(4357): message : см. объявление "std::sort"
+C:\Users\Trim\Desktop\zakazu\Alexander Viktorovich 29.05.2020\Lab 1 sort\lab_2\lab_2.cpp(60,14): error C2780: void std::sort(const _RanIt,const _RanIt,_Pr): требует аргументов: 3, имеется: 1
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\algorithm(4349): message : см. объявление "std::sort"
